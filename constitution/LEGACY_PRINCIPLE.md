@@ -3,7 +3,7 @@ Document: Legacy Principle
 Version: 1.0.0
 Status: Draft
 Owner: Founder
-Foundation Day: 14 July 2026
+Foundation Day: 25 July 2026
 Last Updated: 25 July 2026
 Applies To: Entire Organization, All Products, All Future Engineering Teams
 Classification: Public
