@@ -1,73 +1,85 @@
----
-Document: Mission and Vision
-Version: 1.0.0
-Status: Draft
-Owner: Founder
-Foundation Day: 25 July 2026
-Last Updated: 25 July 2026
-Applies To: Entire Organization
-Classification: Public
----
-
 # Mission and Vision
-
-## Mission
-
-Our mission is to build technology that helps people work better, make better decisions, and achieve more through responsible engineering.
-
-We create products that are practical, reliable, secure, and designed with long-term value in mind.
-
----
-
-## Vision
-
-Our vision is to become a globally respected technology organization known for engineering excellence, integrity, and trust.
-
-We aim to build products that improve people's daily work and decision-making while maintaining the highest engineering standards.
-
----
 
 ## Purpose
 
-Technology exists to serve people.
+Our purpose is to build trustworthy technology that empowers people, protects user ownership of data, and creates long-term value through responsible engineering.
 
-Every product should solve a meaningful problem and deliver measurable value.
-
----
-
-## Long-Term Direction
-
-Our organization is committed to:
-
-- Responsible Engineering
-- Continuous Learning
-- Research-Driven Development
-- Secure and Reliable Products
-- Long-Term User Trust
-- Sustainable Innovation
+Technology should be powerful, reliable, understandable, and built with respect for users.
 
 ---
 
-## Product Ecosystem
+# Mission
 
-Current products:
+Our mission is to design and develop high-quality software products through:
 
-- APK Diary
-- Work_Disk
-- Trading Bot
+- Engineering excellence
+- Documentation-first development
+- User-focused design
+- Responsible innovation
+- Long-term reliability
 
-Future products will follow the same Foundation, Constitution, and Engineering Standards.
-
----
-
-## Closing Statement
-
-Our mission defines why we build.
-
-Our vision defines where we are going.
-
-Our principles define how we get there.
+We build systems that users can trust today and depend on tomorrow.
 
 ---
 
-> Build technology that people can trust.
+# Vision
+
+Our vision is to establish a technology company that creates meaningful software products guided by strong engineering principles.
+
+Every product should represent:
+
+- Quality
+- Security
+- Transparency
+- Ownership
+- Continuous improvement
+
+---
+
+# Long-Term Direction
+
+We aim to create technology solutions that improve daily life, professional workflows, and decision-making.
+
+Future products may include:
+
+- Productivity systems
+- Workflow platforms
+- Intelligent automation tools
+- Data-driven systems
+- Research-based technology solutions
+
+---
+
+# North Star Principle
+
+Before building any feature, system, or product, we ask:
+
+"Does this create real value, respect user ownership, and represent responsible engineering?"
+
+If the answer is no, we do not build it.
+
+---
+
+# Product Alignment
+
+All current and future products must follow this vision.
+
+## Work_Disk
+
+A professional workflow and productivity system based on ownership, reliability, and structured data management.
+
+## Trading Bot
+
+A research-driven intelligent system based on testing, transparency, discipline, and responsible automation.
+
+## Future Products
+
+Every future product must follow the same foundation standards.
+
+---
+
+# Legacy Vision
+
+We are not only building software.
+
+We are building a trusted technology foundation that can support future generations of products.
