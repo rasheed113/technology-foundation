@@ -4,7 +4,7 @@
 
 This document defines the documentation standards for every product developed under this technology foundation.
 
-Documentation preserves knowledge, supports collaboration, and enables long-term maintainability.
+Documentation preserves knowledge, supports collaboration, and enables long-term product success.
 
 ---
 
@@ -12,7 +12,7 @@ Documentation preserves knowledge, supports collaboration, and enables long-term
 
 Documentation is part of the product.
 
-A feature is not fully complete until its documentation is complete.
+Software is not complete until its documentation is complete.
 
 ---
 
@@ -23,22 +23,23 @@ Every product should maintain documentation that is:
 - Accurate
 - Complete
 - Current
-- Understandable
+- Clear
 - Accessible
 
 ---
 
 # Documentation Categories
 
-Products should maintain documentation for:
+Each product should document:
 
-- Vision
+- Product Vision
 - Requirements
 - Architecture
 - Features
+- Data Model
 - APIs
-- Data
 - Security
+- Testing
 - Releases
 - Maintenance
 
@@ -49,43 +50,50 @@ Products should maintain documentation for:
 Documentation should:
 
 - Use clear language
-- Avoid ambiguity
-- Remain synchronized with the product
-- Record important engineering decisions
+- Be version controlled
+- Stay synchronized with the product
+- Explain important engineering decisions
 
 ---
 
-# Documentation Updates
+# Documentation Lifecycle
 
-Documentation should be updated whenever:
+Documentation should be reviewed whenever:
 
-- Features change
+- Features are added
 - Architecture changes
 - Security changes
 - User workflows change
-- Releases introduce important improvements
+- New releases are published
+
+Documentation evolves with the product.
 
 ---
 
 # Knowledge Preservation
 
-Documentation protects long-term knowledge.
+Documentation protects organizational knowledge.
 
-It enables future engineers to understand not only what was built, but also why it was built.
+Future engineers should understand:
+
+- What was built
+- Why it was built
+- How it works
+- How it should evolve
 
 ---
 
 # Responsibility
 
-Maintaining documentation is the responsibility of everyone contributing to the product.
+Every contributor shares responsibility for maintaining documentation.
 
-Documentation should never become outdated through neglect.
+Keeping documentation current is part of professional engineering.
 
 ---
 
 # Final Principle
 
-Well-documented products are easier to build, maintain, improve, and trust.
+Great products are supported by great documentation.
 
-Documentation is an investment in the future of the product.
+Documentation transforms software into long-term knowledge.
 
