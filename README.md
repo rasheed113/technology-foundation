@@ -4,7 +4,7 @@
 
 ---
 
-## Overview
+# Overview
 
 Technology Foundation is the permanent source of truth for our organization.
 
