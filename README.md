@@ -59,3 +59,17 @@ It is about building systems worthy of people's trust.
 ---
 
 # Repository Structure
+
+```text
+technology-foundation/
+│
+├── README.md
+├── FOUNDATION_CHARTER.md
+│
+├── constitution/
+├── governance/
+├── standards/
+├── journal/
+├── roadmap/
+│
+└── LICENSE.md
