@@ -154,3 +154,28 @@ Decision:
 
 Proceed to full validation before final approval.
 
+
+---
+
+# Candidate Evaluation Update
+
+Candidate:
+
+Aetram
+
+Status:
+
+Rejected
+
+Reason:
+
+External validation identified existing commercial usage and brand conflicts.
+
+Decision:
+
+The company name will not be adopted.
+
+Next Candidate:
+
+Corvix
+
