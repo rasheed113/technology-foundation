@@ -98,3 +98,28 @@ Pending external validation.
 
 Final company name declaration will occur after successful validation.
 
+
+---
+
+# External Validation Result
+
+Candidate:
+
+Valora
+
+Status:
+
+Rejected
+
+Reason:
+
+External validation identified significant existing commercial usage and trademark presence.
+
+Decision:
+
+The company name will not be adopted.
+
+Next Candidate:
+
+Aetram
+
